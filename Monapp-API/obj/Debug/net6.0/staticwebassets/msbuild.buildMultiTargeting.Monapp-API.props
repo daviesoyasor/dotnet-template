@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Monapp-API.props" />
+</Project>

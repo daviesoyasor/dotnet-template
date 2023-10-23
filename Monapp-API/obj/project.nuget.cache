@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "stFr2H3FX/iA8KCgLf+zOTqJG/7tkSMDseC7FZ03Zy9hDZNQbJ/+EA2xiZPAxAbnBHOcbzr8+r8hZ0E96SfpEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davies\\source\\repos\\Monapp-API\\Monapp-API\\Monapp-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davies\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Davies\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Davies\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Davies\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Davies\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Davies\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

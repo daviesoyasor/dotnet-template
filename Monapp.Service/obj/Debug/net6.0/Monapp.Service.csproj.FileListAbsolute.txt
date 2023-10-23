@@ -1,0 +1,11 @@
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\bin\Debug\net6.0\Monapp.Service.deps.json
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\bin\Debug\net6.0\Monapp.Service.dll
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\bin\Debug\net6.0\Monapp.Service.pdb
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\Monapp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\Monapp.Service.AssemblyInfoInputs.cache
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\Monapp.Service.AssemblyInfo.cs
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\Monapp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\Monapp.Service.dll
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\refint\Monapp.Service.dll
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\Monapp.Service.pdb
+C:\Users\Davies\source\repos\Monapp-API\Monapp.Service\obj\Debug\net6.0\ref\Monapp.Service.dll
