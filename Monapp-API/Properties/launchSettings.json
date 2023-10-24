@@ -1,23 +1,16 @@
-﻿{
-  "$schema": "https://json.schemastore.org/launchsettings.json",
-  "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-    "iisExpress": {
-      "applicationUrl": "http://localhost:4604",
-      "sslPort": 44313
-    }
-  },
+{
   "profiles": {
     "Monapp_API": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7274;http://localhost:5044",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MONNIFY": "https://monnify.com",
+        "PAYSTACK": "https://paystack.com"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7274;http://localhost:5044"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -26,6 +19,15 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:4604",
+      "sslPort": 44313
     }
   }
 }
