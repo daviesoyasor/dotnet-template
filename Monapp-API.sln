@@ -11,6 +11,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monapp.Service", "Monapp.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monapp.Core", "Monapp.Core\Monapp.Core.csproj", "{9A6A2AA5-E907-4FA6-8401-32C9EB1C7D04}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C817EB6E-DB78-4850-B1B1-E43C2F7ED814}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monapp.Entities", "Monapp.Entities\Monapp.Entities.csproj", "{20BF49D5-79F5-4283-8CB6-CAD81B11970A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monapp.Repository", "Monapp.Repository\Monapp.Repository.csproj", "{87538D0A-37A6-4AAE-98DF-40C97A699849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +42,14 @@ Global
 		{9A6A2AA5-E907-4FA6-8401-32C9EB1C7D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A6A2AA5-E907-4FA6-8401-32C9EB1C7D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A6A2AA5-E907-4FA6-8401-32C9EB1C7D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BF49D5-79F5-4283-8CB6-CAD81B11970A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BF49D5-79F5-4283-8CB6-CAD81B11970A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BF49D5-79F5-4283-8CB6-CAD81B11970A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BF49D5-79F5-4283-8CB6-CAD81B11970A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87538D0A-37A6-4AAE-98DF-40C97A699849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87538D0A-37A6-4AAE-98DF-40C97A699849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87538D0A-37A6-4AAE-98DF-40C97A699849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87538D0A-37A6-4AAE-98DF-40C97A699849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
